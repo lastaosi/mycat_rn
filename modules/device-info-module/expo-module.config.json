@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["Device_infoModule"]
+  },
+  "android": {
+    "modules": ["com.lastaosi.deviceinfo.Device_infoModule"]
+  }
+}
